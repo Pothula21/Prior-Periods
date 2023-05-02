@@ -1,7 +1,7 @@
 {
   "name": "BlankProcess",
   "description": "Blank Process",
-  "main": "Main.xaml",
+  "main": "Git_testing.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.12.3]",
     "UiPath.Mail.Activities": "[1.15.1]",
@@ -45,8 +45,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "cdfc2be0-a6c6-4d78-b758-20b2737234f5",
+      "filePath": "Git_testing.xaml",
+      "uniqueId": "f6c4ce50-c2ef-4825-a5f2-8651e9735c12",
       "input": [],
       "output": []
     }
